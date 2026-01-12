@@ -1,5 +1,8 @@
 # Superstore Sales Performance Dashboard
 
+## 📷 Dashboard Preview
+![Dashboard](Screenshots/superstore_dashboard.png)
+
 ## 📌 Project Overview
 This project analyzes Superstore sales data to evaluate overall business performance, profitability, and regional trends. The goal is to identify key sales drivers, profit margins, and top-performing product categories using interactive visualizations.
 
