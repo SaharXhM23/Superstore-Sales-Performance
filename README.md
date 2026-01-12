@@ -57,5 +57,5 @@ The analysis helps business stakeholders understand sales trends over time and m
 ## 📎 Files Included
 - Power BI dashboard (.pbix)
 - SQL queries used for analysis
-- Dataset (if permitted)
+- Dataset 
 - Dashboard screenshots
